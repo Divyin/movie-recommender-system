@@ -27,10 +27,6 @@ movie-recommender-system/
 ├── app.py               # Main application script
 ├── requirements.txt     # Python dependencies
 ├── similarity.pkl       # Pre-trained similarity matrix
-├── templates/           # HTML templates for the web interface
-│   ├── index.html       # Homepage
-│   └── result.html      # Results page
-├── static/              # Static assets (CSS, JS, Images)
 ├── dataset/             # Movie dataset used for training
 │   └── movies.csv       # Dataset file
 └── README.md            # Project README file
